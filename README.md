@@ -1,0 +1,2 @@
+# canvasImg
+使用html2canvas和canvas2image把网页绘制成图片
