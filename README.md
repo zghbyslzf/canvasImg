@@ -21,3 +21,7 @@ const img = document.querySelector("body>img");
 const body = document.querySelector("body");
 body.removeChild(img);
 ```
+
+## 最后
+
+代码中有详细注释，有需要可以自行修改
