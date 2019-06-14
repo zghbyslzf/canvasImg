@@ -4,6 +4,10 @@
 
 ## 使用
 
+```
+npm install html2canvas
+```
+
 把代拷贝到 utils 文件夹下，在需要绘制的页面
 
 ```
