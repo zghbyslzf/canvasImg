@@ -46,7 +46,7 @@ export default class createImg {
     // 设置html2canvas方法的配置
     const opts = {
       scale: scaleBy, // 添加的scale 参数
-      canvas: this.canvas, //自定义 canvas
+      canvas: canvas, //自定义 canvas
       // allowTaint: true, //允许画布上有跨域图片 不建议使用 后面详细补充
       // logging: true, //日志开关，便于查看html2canvas的内部执行流程
       width: this.w, //dom 原始宽度
